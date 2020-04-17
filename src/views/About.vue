@@ -41,7 +41,7 @@
                   justify="center"
           >
             <v-list-item-content>
-              <v-list-item-title>
+              <v-list-item-title id='ui-version'>
                 <v-icon class="mx-n2">mdi-alpha-v</v-icon>
                 {{ version }}
               </v-list-item-title>
